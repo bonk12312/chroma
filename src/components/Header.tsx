@@ -17,7 +17,7 @@ export default function Header() {
           </div>
           <span className="text-2xl font-bold tracking-wider text-white">CHROMA</span>
           <a
-            href="https://twitter.com/your-account"
+            href="https://x.com/chromasolana"
             target="_blank"
             rel="noopener noreferrer"
             className="w-10 h-10 bg-cyan-500/10 border border-cyan-500/30 flex items-center justify-center rounded hover:bg-cyan-500/20 hover:border-cyan-400 transition-all duration-300 group"
